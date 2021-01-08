@@ -19,7 +19,7 @@ class pdfMerger():
         self.openFiles(files)
         self.mergeFiles(self.readers)
         
-        self.merger.write('/home/ziad/Documents/Python/PDF_Merger/Python PDF Merger/test.pdf')
+        self.merger.write(outputFname + "/_merged_pdf.pdf")
         
     def openFiles(self, files):
         for file in files:

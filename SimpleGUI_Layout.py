@@ -18,7 +18,7 @@ def MakeMainWindow(PDF_List):
               [sg.FolderBrowse('Save Directory', key="-OUT-", change_submits=True), sg.Input("")],
               [sg.Button("Remove PDF"), sg.Button('Merge'), sg.Button('Exit')]]
 
-    return sg.Window('Window Title', layout, location=(800,600), finalize=True,
+    return sg.Window('PDF Merging Program', layout, location=(800,600), finalize=True,
                      size = (400,400))
 
 

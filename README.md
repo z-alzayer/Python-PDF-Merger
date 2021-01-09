@@ -9,4 +9,4 @@ To use run mainLogic.py, once this is running, add your PDFs using add file, and
 
 ![Alt text](https://github.com/zman950/Python-PDF-Merger/raw/main/Screenshot/Screenshot%20from%202021-01-09%2001-32-12.png "PDF Merger GUI")
 
-A pre-built file has been provided if python is not installed on your distribution. Download the dist folder and run ./mainLogic 
+A pre-built file has been provided if python is not installed on your distribution. Download the dist folder and run ./mainLogic or in windows download the windows dist and run the mainLogic application file.

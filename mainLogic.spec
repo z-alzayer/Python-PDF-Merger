@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['mainLogic.py'],
-             pathex=['C:\\Users\\ziad\\Documents\\GitHub\\Python-PDF-Merger'],
+             pathex=['/home/ziad/Documents/Python/PDF_Merger/Python PDF Merger'],
              binaries=[],
              datas=[],
              hiddenimports=[],
